@@ -10,3 +10,6 @@ Y:\ProxmarkWindows\Output\Release\Proxmark.exe.config
 Y:\ProxmarkWindows\Output\Release\Proxmark.exe
 Y:\ProxmarkWindows\Output\Release\Proxmark.pdb
 Y:\ProxmarkWindows\ProxmarkUI\obj\Release\ProxmarkUI.csprojResolveAssemblyReference.cache
+M:\Projecs\proxmark\GitHub\ProxmarkWindows\Output\Release\Proxmark.exe.config
+M:\Projecs\proxmark\GitHub\ProxmarkWindows\ProxmarkUI\obj\Release\Proxmark.exe
+M:\Projecs\proxmark\GitHub\ProxmarkWindows\ProxmarkUI\obj\Release\Proxmark.pdb
