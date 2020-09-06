@@ -1,0 +1,12 @@
+Y:\ProxmarkWindows\ProxmarkUI\bin\Release\Proxmark.exe.config
+Y:\ProxmarkWindows\ProxmarkUI\bin\Release\Proxmark.exe
+Y:\ProxmarkWindows\ProxmarkUI\bin\Release\Proxmark.pdb
+Y:\ProxmarkWindows\ProxmarkUI\obj\Release\ProxmarkUI.MainForm.resources
+Y:\ProxmarkWindows\ProxmarkUI\obj\Release\ProxmarkUI.Properties.Resources.resources
+Y:\ProxmarkWindows\ProxmarkUI\obj\Release\ProxmarkUI.csproj.GenerateResource.Cache
+Y:\ProxmarkWindows\ProxmarkUI\obj\Release\Proxmark.exe
+Y:\ProxmarkWindows\ProxmarkUI\obj\Release\Proxmark.pdb
+Y:\ProxmarkWindows\Output\Release\Proxmark.exe.config
+Y:\ProxmarkWindows\Output\Release\Proxmark.exe
+Y:\ProxmarkWindows\Output\Release\Proxmark.pdb
+Y:\ProxmarkWindows\ProxmarkUI\obj\Release\ProxmarkUI.csprojResolveAssemblyReference.cache

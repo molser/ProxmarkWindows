@@ -1,0 +1,130 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(936,5): warning MSB8027: Two or more files with the name of des.c will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Iceman\Common\Polarssl\des.c, Loclass\des.c.
+  optimized_cipher.c
+  ikeys.c
+y:\proxmarkwindows\proxmarklib\loclass\ikeys.c(255): warning C4244: 'initializing': conversion from 'uint64_t' to 'uint8_t', possible loss of data
+y:\proxmarkwindows\proxmarklib\loclass\ikeys.c(287): warning C4244: 'initializing': conversion from 'uint64_t' to 'uint8_t', possible loss of data
+y:\proxmarkwindows\proxmarklib\loclass\ikeys.c(732): warning C4244: '+=': conversion from 'uint64_t' to 'int', possible loss of data
+y:\proxmarkwindows\proxmarklib\loclass\ikeys.c(733): warning C4244: '+=': conversion from 'uint64_t' to 'int', possible loss of data
+y:\proxmarkwindows\proxmarklib\loclass\ikeys.c(734): warning C4244: '+=': conversion from 'uint64_t' to 'int', possible loss of data
+y:\proxmarkwindows\proxmarklib\loclass\ikeys.c(735): warning C4244: '+=': conversion from 'uint64_t' to 'int', possible loss of data
+y:\proxmarkwindows\proxmarklib\loclass\ikeys.c(736): warning C4244: '+=': conversion from 'uint64_t' to 'int', possible loss of data
+y:\proxmarkwindows\proxmarklib\loclass\ikeys.c(737): warning C4244: '+=': conversion from 'uint64_t' to 'int', possible loss of data
+y:\proxmarkwindows\proxmarklib\loclass\ikeys.c(738): warning C4244: '+=': conversion from 'uint64_t' to 'int', possible loss of data
+y:\proxmarkwindows\proxmarklib\loclass\ikeys.c(739): warning C4244: '+=': conversion from 'uint64_t' to 'int', possible loss of data
+y:\proxmarkwindows\proxmarklib\loclass\ikeys.c(740): warning C4244: '+=': conversion from 'uint64_t' to 'int', possible loss of data
+y:\proxmarkwindows\proxmarklib\loclass\ikeys.c(757): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  hash1_brute.c
+y:\proxmarkwindows\proxmarklib\loclass\hash1_brute.c(123): warning C4244: '=': conversion from 'uint16_t' to 'uint8_t', possible loss of data
+y:\proxmarkwindows\proxmarklib\loclass\hash1_brute.c(124): warning C4244: '=': conversion from 'uint16_t' to 'uint8_t', possible loss of data
+y:\proxmarkwindows\proxmarklib\loclass\hash1_brute.c(125): warning C4244: '=': conversion from 'uint16_t' to 'uint8_t', possible loss of data
+y:\proxmarkwindows\proxmarklib\loclass\hash1_brute.c(126): warning C4244: '=': conversion from 'uint16_t' to 'uint8_t', possible loss of data
+  fileutils.c
+y:\proxmarkwindows\proxmarklib\loclass\fileutils.c(62): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+y:\proxmarkwindows\proxmarklib\loclass\fileutils.c(65): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+y:\proxmarkwindows\proxmarklib\loclass\fileutils.c(71): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+y:\proxmarkwindows\proxmarklib\loclass\fileutils.c(86): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  elite_crack.c
+y:\proxmarkwindows\proxmarklib\loclass\elite_crack.c(555): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  des.c
+  cipherutils.c
+  cipher.c
+y:\proxmarkwindows\proxmarklib\loclass\cipher.c(118): warning C4804: '~': unsafe use of type 'bool' in operation
+y:\proxmarkwindows\proxmarklib\loclass\cipher.c(120): warning C4804: '~': unsafe use of type 'bool' in operation
+  util.c
+y:\proxmarkwindows\proxmarklib\iceman\util.c(37): warning C4244: 'return': conversion from 'unsigned __int64' to 'uint8_t', possible loss of data
+  crc16.c
+y:\proxmarkwindows\proxmarklib\iceman\crc16.c(50): warning C4244: 'function': conversion from 'uint16_t' to 'uint8_t', possible loss of data
+y:\proxmarkwindows\proxmarklib\iceman\crc16.c(72): warning C4013: 'memset' undefined; assuming extern returning int
+  des.c
+  Generating Code...
+  ProxmarkLib.cpp
+y:\proxmarkwindows\proxmarklib\proxmarklib.cpp(55): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+y:\proxmarkwindows\proxmarklib\proxmarklib.cpp(59): warning C4273: 'ComputeReaderMAC': inconsistent dll linkage
+  y:\proxmarkwindows\proxmarklib\proxmarklib.h(32): note: see previous definition of 'ComputeReaderMAC'
+y:\proxmarkwindows\proxmarklib\proxmarklib.cpp(76): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+y:\proxmarkwindows\proxmarklib\proxmarklib.cpp(77): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+y:\proxmarkwindows\proxmarklib\proxmarklib.cpp(80): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+y:\proxmarkwindows\proxmarklib\proxmarklib.cpp(81): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+y:\proxmarkwindows\proxmarklib\proxmarklib.cpp(87): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+y:\proxmarkwindows\proxmarklib\proxmarklib.cpp(88): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+y:\proxmarkwindows\proxmarklib\proxmarklib.cpp(91): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+y:\proxmarkwindows\proxmarklib\proxmarklib.cpp(92): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+y:\proxmarkwindows\proxmarklib\proxmarklib.cpp(94): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+y:\proxmarkwindows\proxmarklib\proxmarklib.cpp(96): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+y:\proxmarkwindows\proxmarklib\proxmarklib.cpp(98): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+y:\proxmarkwindows\proxmarklib\proxmarklib.cpp(101): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+y:\proxmarkwindows\proxmarklib\proxmarklib.cpp(105): warning C4273: 'ComputeMAC': inconsistent dll linkage
+  y:\proxmarkwindows\proxmarklib\proxmarklib.h(33): note: see previous definition of 'ComputeMAC'
+y:\proxmarkwindows\proxmarklib\proxmarklib.cpp(135): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+y:\proxmarkwindows\proxmarklib\proxmarklib.cpp(136): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+y:\proxmarkwindows\proxmarklib\proxmarklib.cpp(139): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+y:\proxmarkwindows\proxmarklib\proxmarklib.cpp(141): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+y:\proxmarkwindows\proxmarklib\proxmarklib.cpp(143): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+y:\proxmarkwindows\proxmarklib\proxmarklib.cpp(145): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+y:\proxmarkwindows\proxmarklib\proxmarklib.cpp(147): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+y:\proxmarkwindows\proxmarklib\proxmarklib.cpp(149): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+y:\proxmarkwindows\proxmarklib\proxmarklib.cpp(152): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+y:\proxmarkwindows\proxmarklib\proxmarklib.cpp(154): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+y:\proxmarkwindows\proxmarklib\proxmarklib.cpp(156): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+y:\proxmarkwindows\proxmarklib\proxmarklib.cpp(158): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+y:\proxmarkwindows\proxmarklib\proxmarklib.cpp(165): warning C4273: 'ComputeCRC': inconsistent dll linkage
+  y:\proxmarkwindows\proxmarklib\proxmarklib.h(39): note: see previous definition of 'ComputeCRC'
+y:\proxmarkwindows\proxmarklib\proxmarklib.cpp(178): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+y:\proxmarkwindows\proxmarklib\proxmarklib.cpp(179): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+y:\proxmarkwindows\proxmarklib\proxmarklib.cpp(182): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+y:\proxmarkwindows\proxmarklib\proxmarklib.cpp(183): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+y:\proxmarkwindows\proxmarklib\proxmarklib.cpp(185): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+y:\proxmarkwindows\proxmarklib\proxmarklib.cpp(190): warning C4273: 'EncryptBlock': inconsistent dll linkage
+  y:\proxmarkwindows\proxmarklib\proxmarklib.h(45): note: see previous definition of 'EncryptBlock'
+y:\proxmarkwindows\proxmarklib\proxmarklib.cpp(198): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+y:\proxmarkwindows\proxmarklib\proxmarklib.cpp(199): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+y:\proxmarkwindows\proxmarklib\proxmarklib.cpp(205): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+y:\proxmarkwindows\proxmarklib\proxmarklib.cpp(210): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+y:\proxmarkwindows\proxmarklib\proxmarklib.cpp(214): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+  dllmain.cpp
+  Generating Code...
+Win32\Debug\des.obj : warning LNK4042: object specified more than once; extras ignored
+     Creating library Y:\ProxmarkWindows\Output\Debug\ProxmarkLib-x86.lib and object Y:\ProxmarkWindows\Output\Debug\ProxmarkLib-x86.exp
+  ProxmarkLib.vcxproj -> Y:\ProxmarkWindows\Output\Debug\ProxmarkLib-x86.dll
+  ProxmarkLib.vcxproj -> Y:\ProxmarkWindows\Output\Debug\ProxmarkLib-x86.pdb (Full PDB)
